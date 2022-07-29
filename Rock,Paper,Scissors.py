@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
-
 
 import random 
 
@@ -43,10 +41,5 @@ while True:
 print("You won", user_wins, "times.")
 print("computer has won", computer_wins, "times.")
 print("Goodbye!")
-
-
-# In[ ]:
-
-
 
 
